@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML表单/表单.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="35" column="50" lean-forward="true" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+            <state relative-caret-position="428">
+              <caret line="76" column="30" lean-forward="true" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -60,11 +60,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="89" />
-    <option name="y" value="76" />
-    <option name="width" value="1005" />
-    <option name="height" value="820" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="260" />
+    <option name="y" value="10" />
+    <option name="width" value="1118" />
+    <option name="height" value="831" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -137,7 +137,9 @@
       <updated>1567159739020</updated>
       <workItem from="1567159740700" duration="9270000" />
       <workItem from="1567225236030" duration="8895000" />
-      <workItem from="1567247535473" duration="9263000" />
+      <workItem from="1567247535473" duration="9985000" />
+      <workItem from="1567263580805" duration="992000" />
+      <workItem from="1567273689075" duration="2447000" />
     </task>
     <task id="LOCAL-00001" summary="ff">
       <created>1567169517150</created>
@@ -300,11 +302,25 @@
       <option name="project" value="LOCAL" />
       <updated>1567257961287</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="。">
+      <created>1567258403418</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1567258403418</updated>
+    </task>
+    <task id="LOCAL-00025" summary="。">
+      <created>1567259104987</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1567259104987</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27428000" />
+    <option name="totallyTimeSpent" value="31589000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -316,7 +332,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="461" y="51" width="1118" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.33968255" />
@@ -450,6 +466,12 @@
     <entry file="file://$PROJECT_DIR$/预览简历.html" />
     <entry file="file://$PROJECT_DIR$/icon.png" />
     <entry file="file://$PROJECT_DIR$/表单.html" />
+    <entry file="file://$PROJECT_DIR$/HTML表单/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML表单/微信截图_20190831210824.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/HTML表单/预览简历.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4224">
@@ -457,16 +479,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML表单/icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML表单/微信截图_20190831210824.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML表单/表单.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="35" column="50" lean-forward="true" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+        <state relative-caret-position="428">
+          <caret line="76" column="30" lean-forward="true" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
         </state>
       </provider>
     </entry>
