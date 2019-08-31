@@ -13,13 +13,16 @@
              *分类（一共7中，2中比较常用）
                  get:
                       请求参数会在地址栏里面显示
+                      请求参数的长度有限制
+                      不太安全
                  post:
                       请求参数不会在地址栏中显示，会封装在请求体中
-
+                      请求参数的长度没有限制
+                      较为安全
      表单项中的数据要想被提交，必须指定其name属性-->
 
-<form action="预览简历.html" >
-    账号:<input  name="username" ><br>
+<form action="预览简历.html" method="post" >
+    账号:<input  name="username"><br>
     密码:<input  name="password"><br>
     <center> <input type="submit" value="确认" ></center>
 </form>
