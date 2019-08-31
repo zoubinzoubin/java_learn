@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6ad6955a-41bc-4d02-a1e2-3c2d7404d893" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML表单/表单.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML表单/表单.html" afterDir="false" />
     </list>
     <list id="8033bf35-7f5f-48fd-965b-9f601385694e" name="Apply: Initial commit" comment="Apply: Initial commit" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML表单/表单.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+            <state relative-caret-position="494">
+              <caret line="41" column="7" lean-forward="true" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -78,6 +77,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,8 +95,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,7 +134,8 @@
       <option name="presentableId" value="Default" />
       <updated>1567159739020</updated>
       <workItem from="1567159740700" duration="9270000" />
-      <workItem from="1567225236030" duration="7474000" />
+      <workItem from="1567225236030" duration="8895000" />
+      <workItem from="1567247535473" duration="713000" />
     </task>
     <task id="LOCAL-00001" summary="ff">
       <created>1567169517150</created>
@@ -207,11 +207,25 @@
       <option name="project" value="LOCAL" />
       <updated>1567232868148</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="。">
+      <created>1567233885718</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1567233885718</updated>
+    </task>
+    <task id="LOCAL-00012" summary="。">
+      <created>1567234527270</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1567234527270</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16744000" />
+    <option name="totallyTimeSpent" value="18878000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -226,7 +240,7 @@
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25358167" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25716332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -352,29 +366,11 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/预览简历_files/lookResumes.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/预览简历_files/Resume.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/预览简历.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/表单.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/预览简历_files/lookResumes.jpg" />
+    <entry file="file://$PROJECT_DIR$/预览简历_files/Resume.css" />
+    <entry file="file://$PROJECT_DIR$/预览简历.html" />
+    <entry file="file://$PROJECT_DIR$/icon.png" />
+    <entry file="file://$PROJECT_DIR$/表单.html" />
     <entry file="file://$PROJECT_DIR$/HTML表单/icon.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -387,8 +383,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML表单/表单.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+        <state relative-caret-position="494">
+          <caret line="41" column="7" lean-forward="true" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
         </state>
       </provider>
     </entry>
