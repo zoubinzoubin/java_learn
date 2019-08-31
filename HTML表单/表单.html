@@ -35,6 +35,12 @@
                              *注意:
                                   2.一般会给每一个单选框提供value属性,指定其被选中后提交的值
                                   3 .checked属性，可以指定默认值
+                       file：文件选择框
+                       hidden：隐藏域，用于提交一些信息
+                       按钮：
+                              submit:提交按钮。可以提交表单
+                              button: 普通按钮
+                              image:  图片提交按钮
                        label:指定输入项的文字描述信息
                                label的for属性一般会和input的id属性值对应。如果对应了，则点击label区域，会让input输入框获取焦点。
 
@@ -55,6 +61,7 @@
      <input type="checkbox" name="hobby" value="game">玩游戏<br>
      <input type="file" name="file" ><br>
 隐藏:<input type="hidden" value="798"  name="hidden" >
+     <input type="image" src="icon.png">
 <center> <input type="submit" value="确认" ></center>
 </form>
 </body>
