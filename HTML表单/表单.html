@@ -6,10 +6,18 @@
 </head>
 <body>
 
-<!--   form用于定义用户数据采集的范围-->
-<!--        action提交数据的url-->
-<!--     method提交数据的方式-->
-<!--    表单项中的数据要想被提交，必须指定其name属性-->
+
+<!-- form用于定义用户数据采集的范围
+      action提交数据的url
+      method提交数据的方式
+             *分类（一共7中，2中比较常用）
+                 get:
+                      请求参数会在地址栏里面显示
+                 post:
+                      请求参数不会在地址栏中显示，会封装在请求体中
+
+     表单项中的数据要想被提交，必须指定其name属性-->
+
 <form action="预览简历.html" >
     账号:<input  name="username" ><br>
     密码:<input  name="password"><br>
