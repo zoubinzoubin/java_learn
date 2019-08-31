@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML表单/表单.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+            <state relative-caret-position="406">
+              <caret line="44" column="58" lean-forward="true" selection-start-line="44" selection-start-column="58" selection-end-line="44" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -137,7 +137,7 @@
       <updated>1567159739020</updated>
       <workItem from="1567159740700" duration="9270000" />
       <workItem from="1567225236030" duration="8895000" />
-      <workItem from="1567247535473" duration="2396000" />
+      <workItem from="1567247535473" duration="3879000" />
     </task>
     <task id="LOCAL-00001" summary="ff">
       <created>1567169517150</created>
@@ -237,11 +237,25 @@
       <option name="project" value="LOCAL" />
       <updated>1567250591281</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="。">
+      <created>1567251625452</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1567251625452</updated>
+    </task>
+    <task id="LOCAL-00016" summary="。">
+      <created>1567251937889</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1567251937889</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20561000" />
+    <option name="totallyTimeSpent" value="22044000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -253,7 +267,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="610" y="56" width="1400" height="820" extended-state="0" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.23059702" />
@@ -271,10 +285,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928367" weight="0.32974428" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.69925374" visible="true" weight="0.16618076" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.6991404" weight="0.1522911" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49856734" weight="0.32884097" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.30074626" side_tool="true" visible="true" weight="0.16618076" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.3008596" side_tool="true" weight="0.15363881" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -399,8 +413,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML表单/表单.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+        <state relative-caret-position="406">
+          <caret line="44" column="58" lean-forward="true" selection-start-line="44" selection-start-column="58" selection-end-line="44" selection-end-column="58" />
         </state>
       </provider>
     </entry>
