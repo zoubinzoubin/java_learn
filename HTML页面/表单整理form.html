@@ -6,7 +6,7 @@
 </head>
 <body>
 <!--      定义form标签-->
-<form action="#" method="post">
+<form action="预览简历.html" method="post">
     <table border="1" align="center" width="500">
         <tr>
             <td><label for="usrname">账号</label></td>
@@ -45,13 +45,29 @@
                 <input type="checkbox" name="hobby" value="game">玩游戏
             </td>
         </tr>
+
+        <tr>
+            <td> <label for="birthday" >生日</label></td>
+            <td>
+                <input type="date" name="birthday" id="birthday">
+            </td>
+        </tr>
+
         <tr>
             <td><label for="email">邮箱</label> </td>
             <td><input type="email" name="email"  placeholder="1067033061@qq.com" id="email" ></td>
         </tr>
         <tr>
-               <td><input type="submit" value="确认"></td>
+            <td>
+               <label for="check">验证码</label>
+            </td>
+            <td>
+                <input type="text" name="check" id="check">
+            </td>
         </tr>
+
+        <tr><td colspan="2" align="center" > <input  type="submit" value="确认" ></td></tr>
+
 
     </table>
 
