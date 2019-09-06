@@ -17,14 +17,14 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.31303725">
+    <splitter split-orientation="horizontal" split-proportion="0.35530087">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/HTML页面/HTML页面制作.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="22">
-                  <caret line="62" column="76" selection-start-line="62" selection-start-column="76" selection-end-line="62" selection-end-column="76" />
+                <state relative-caret-position="374">
+                  <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
@@ -46,12 +46,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/HTML页面/表单整理form.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="418">
-                  <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+                <state relative-caret-position="1144">
+                  <caret line="52" column="12" lean-forward="true" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
@@ -92,8 +92,8 @@
         <option value="$PROJECT_DIR$/dsws.html" />
         <option value="$PROJECT_DIR$/表单.html" />
         <option value="$PROJECT_DIR$/HTML表单/表单.html" />
-        <option value="$PROJECT_DIR$/HTML页面/HTML页面制作.html" />
         <option value="$PROJECT_DIR$/HTML页面/表单整理form.html" />
+        <option value="$PROJECT_DIR$/HTML页面/HTML页面制作.html" />
       </list>
     </option>
   </component>
@@ -182,7 +182,9 @@
       <workItem from="1567332101614" duration="1440000" />
       <workItem from="1567347388808" duration="5736000" />
       <workItem from="1567357218583" duration="200000" />
-      <workItem from="1567413371474" duration="6833000" />
+      <workItem from="1567413371474" duration="6855000" />
+      <workItem from="1567754473036" duration="251000" />
+      <workItem from="1567754931508" duration="866000" />
     </task>
     <task id="LOCAL-00001" summary="ff">
       <created>1567169517150</created>
@@ -387,11 +389,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567357391760</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="。">
+      <created>1567420224842</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1567420224842</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46083000" />
+    <option name="totallyTimeSpent" value="47222000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -550,17 +559,17 @@
     <entry file="file://$PROJECT_DIR$/HTML页面/icon.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML页面/HTML页面制作.html">
+    <entry file="file://$PROJECT_DIR$/HTML页面/表单整理form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="62" column="76" selection-start-line="62" selection-start-column="76" selection-end-line="62" selection-end-column="76" />
+        <state relative-caret-position="242">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML页面/表单整理form.html">
+    <entry file="file://$PROJECT_DIR$/HTML页面/HTML页面制作.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        <state relative-caret-position="374">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
