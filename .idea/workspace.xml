@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ad6955a-41bc-4d02-a1e2-3c2d7404d893" name="Default Changelist" comment="。">
-      <change afterPath="$PROJECT_DIR$/HTML页面/扩展选择器.html" afterDir="false" />
+    <list default="true" id="6ad6955a-41bc-4d02-a1e2-3c2d7404d893" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML页面/play.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML页面/play.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML页面/基础选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML页面/基础选择器.html" afterDir="false" />
     </list>
     <list id="8033bf35-7f5f-48fd-965b-9f601385694e" name="Apply: Initial commit" comment="Apply: Initial commit" />
@@ -34,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML页面/基础选择器.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="327">
+              <caret line="60" column="35" lean-forward="true" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -61,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML页面/play.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16588">
+            <state relative-caret-position="648">
               <caret line="754" column="1" selection-start-line="754" selection-start-column="1" selection-end-line="754" selection-end-column="1" />
             </state>
           </provider>
@@ -125,14 +123,15 @@
         <option value="$PROJECT_DIR$/HTML页面/css样式与html的结合.html" />
         <option value="$PROJECT_DIR$/HTML页面/扩展选择器.html" />
         <option value="$PROJECT_DIR$/HTML页面/play.css" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
         <option value="$PROJECT_DIR$/HTML页面/基础选择器.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="529" />
-    <option name="y" value="18" />
-    <option name="width" value="842" />
+    <option name="x" value="17" />
+    <option name="y" value="15" />
+    <option name="width" value="1113" />
     <option name="height" value="841" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -143,26 +142,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML页面" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -227,7 +207,11 @@
       <workItem from="1567976512694" duration="4380000" />
       <workItem from="1568007337284" duration="653000" />
       <workItem from="1568017222408" duration="2862000" />
-      <workItem from="1568020107026" duration="1054000" />
+      <workItem from="1568020107026" duration="3490000" />
+      <workItem from="1568031872250" duration="4000" />
+      <workItem from="1568032589371" duration="282000" />
+      <workItem from="1568032905659" duration="168000" />
+      <workItem from="1568033147242" duration="2590000" />
     </task>
     <task id="LOCAL-00001" summary="ff">
       <created>1567169517150</created>
@@ -509,11 +493,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567977614834</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="。">
+      <created>1568021179879</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1568021179879</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75646000" />
+    <option name="totallyTimeSpent" value="81126000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -525,7 +516,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="529" y="18" width="842" height="841" extended-state="0" />
+    <frame x="17" y="15" width="1113" height="841" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.4667519" />
@@ -693,6 +684,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HTML页面/css样式与html的结合.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1408">
@@ -703,10 +701,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML页面/扩展选择器.html">
+    <entry file="file://$PROJECT_DIR$/HTML页面/css样式与html的结合2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="110">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML页面/play.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="754" column="1" selection-start-line="754" selection-start-column="1" selection-end-line="754" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -717,24 +722,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML页面/play.css">
+    <entry file="file://$PROJECT_DIR$/HTML页面/扩展选择器.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16588">
-          <caret line="754" column="1" selection-start-line="754" selection-start-column="1" selection-end-line="754" selection-end-column="1" />
+        <state relative-caret-position="286">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML页面/css样式与html的结合2.html">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/邹斌.url">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML页面/基础选择器.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="327">
+          <caret line="60" column="35" lean-forward="true" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
         </state>
       </provider>
     </entry>
